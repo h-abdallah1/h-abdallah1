@@ -2,7 +2,7 @@
 - 👀 I’m interested in React, Node, and anything to do with UI design.
 - 📫 How to reach me: huss273@gmail.com
 
-<!---
-h-abdallah1/h-abdallah1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Current Projects
+
+- **Draw Something New Everyday**: A small project that inspires artists to draw by generating a random word and retrieving a matching image.  
+  🌐 [Check it out here!](https://draw-something-new-everyday.vercel.app)
