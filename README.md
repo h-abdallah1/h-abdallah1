@@ -28,7 +28,7 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 ### 📸 Split — Receipt Splitter
 > Premium iOS bill-splitting app. Point your camera at any receipt and Split instantly divides expenses among your group — no manual entry, no accounts, no internet required.
 
-- 🔒 Fully offline, on-device OCR via Apple's Vision framework
+- 🤖 AI-powered receipt parsing — instantly extracts and splits line items
 - ⚡ Zero sign-up friction — open and split in seconds
 - 🍎 100% native Swift/SwiftUI, zero third-party dependencies
 
