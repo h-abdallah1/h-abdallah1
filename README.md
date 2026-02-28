@@ -32,7 +32,7 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 - ⚡ Zero sign-up friction — open and split in seconds
 - 🍎 100% native Swift/SwiftUI, zero third-party dependencies
 
-🛒 [$2.99 on the App Store](https://apps.apple.com/us/app/split-receipt-splitter/id6759276340)
+🛒 [$0.99 on the App Store](https://apps.apple.com/us/app/split-receipt-splitter/id6759276340)
 
 ---
 
