@@ -35,7 +35,7 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 - 📝 Obsidian vault browser with D3 force-directed graph view and in-app markdown editor
 - 🎬 Nine canvas-based animated backgrounds (Matrix rain, Aurora, Fireflies, Particle network…)
 
-🔗 [View a demo](https://hayati-app-indol.vercel.app/)
+🌐 [Live demo](https://hayati-app-indol.vercel.app/)
 
 ### 📸 Split — Receipt Splitter
 > Premium iOS bill-splitting app. Point your camera at any receipt and Split instantly divides expenses among your group — no manual entry, no accounts, no internet required.
@@ -46,12 +46,10 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 
 🛒 [$0.99 on the App Store](https://apps.apple.com/us/app/split-receipt-splitter/id6759276340)
 
----
-
 ### 🎨 Draw Something New Everyday
 > Creativity prompt generator — get a random word paired with a matching image to spark your next drawing.
 
-🌐 [Live Demo](https://draw-something-new-everyday.vercel.app) · 💻 [Source](https://github.com/h-abdallah1)
+🌐 [Live Demo](https://draw-something-new-everyday.vercel.app)
 
 ## 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=h-abdallah1&theme=tokyonight&hide_border=true)](https://github.com/h-abdallah1)
