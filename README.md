@@ -35,7 +35,7 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 - 📝 Obsidian vault browser with D3 force-directed graph view and in-app markdown editor
 - 🎬 Nine canvas-based animated backgrounds (Matrix rain, Aurora, Fireflies, Particle network…)
 
-[View a demo](https://hayati-app-indol.vercel.app/)
+🔗 [View a demo](https://hayati-app-indol.vercel.app/)
 
 ### 📸 Split — Receipt Splitter
 > Premium iOS bill-splitting app. Point your camera at any receipt and Split instantly divides expenses among your group — no manual entry, no accounts, no internet required.
