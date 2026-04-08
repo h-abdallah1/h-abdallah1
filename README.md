@@ -25,6 +25,18 @@ Frontend developer passionate about building clean, intuitive interfaces — fro
 
 ## 🚀 Projects
 
+### 🗂️  HayatiOS — Personal Life Dashboard           
+> Self-hosted dashboard that brings your whole life into one place — workouts, films, books, prayer times, notes, travel, and more. Local-first, no cloud account needed.
+       
+- 📊 Drag-and-drop widget grid with 10+ live panels (weather, GitHub heatmap, gym analytics, prayer countdown, AI chat)
+- 🕌 Prayer times calculated fully offline via the Adhan library
+- 🏋️ Gym analytics synced from Hevy — volume trends, PRs, streaks, and a full year heatmap
+- 🎬 Film diary pulled from Letterboxd — poster grid, timeline view, ratings, and filters
+- 📝 Obsidian vault browser with D3 force-directed graph view and in-app markdown editor
+- 🎬 Nine canvas-based animated backgrounds (Matrix rain, Aurora, Fireflies, Particle network…)
+
+[View a demo](https://hayati-app-indol.vercel.app/)
+
 ### 📸 Split — Receipt Splitter
 > Premium iOS bill-splitting app. Point your camera at any receipt and Split instantly divides expenses among your group — no manual entry, no accounts, no internet required.
 
